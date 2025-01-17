@@ -1,7 +1,7 @@
 [
   {
     "activity_id": 11476023166,
-    "activity_date": "May 23",
+    "activity_date": 2024-05-23,
     "activity_name": "Night Run",
     "activity_type": "Run",
     "distance": 8.19,
@@ -16,7 +16,7 @@
   },
   {
     "activity_id": 11714866972,
-    "activity_date": "Jun 22",
+    "activity_date": 2024-06-22,
     "activity_name": "Afternoon Run",
     "activity_type": "Run",
     "distance": 8.55,
@@ -31,7 +31,7 @@
   },
   {
     "activity_id": 11803329452,
-    "activity_date": "Jul 4",
+    "activity_date": 2024-07-04,
     "activity_name": "Missing MR run",
     "activity_type": "Run",
     "distance": 5.03,
@@ -46,7 +46,7 @@
   },
   {
     "activity_id": 11867031994,
-    "activity_date": "Jul 12",
+    "activity_date": 2024-07-12,
     "activity_name": "ASICS evening run",
     "activity_type": "Run",
     "distance": 6.17,
@@ -61,7 +61,7 @@
   },
   {
     "activity_id": 11875003930,
-    "activity_date": "Jul 13",
+    "activity_date": 2024-07-13,
     "activity_name": "Midnight run 🌙✨",
     "activity_type": "Run",
     "distance": 5.34,
@@ -76,7 +76,7 @@
   },
   {
     "activity_id": 11898566389,
-    "activity_date": "Jul 16",
+    "activity_date": 2024-07-16,
     "activity_name": "Back to solo running",
     "activity_type": "Run",
     "distance": 9.65,
@@ -91,7 +91,7 @@
   },
   {
     "activity_id": 11915826735,
-    "activity_date": "Jul 18",
+    "activity_date": 2024-07-18,
     "activity_name": "MR run ✨",
     "activity_type": "Run",
     "distance": 7.81,
@@ -106,7 +106,7 @@
   },
   {
     "activity_id": 11956852380,
-    "activity_date": "Jul 23",
+    "activity_date": 2024-07-23,
     "activity_name": "Tamos ready",
     "activity_type": "Run",
     "distance": 9.98,
@@ -121,7 +121,7 @@
   },
   {
     "activity_id": 12032343845,
-    "activity_date": "Aug 1",
+    "activity_date": 2024-08-01,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 5.37,
@@ -136,7 +136,7 @@
   },
   {
     "activity_id": 12132935183,
-    "activity_date": "Aug 13",
+    "activity_date": 2024-08-13,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 3.91,
@@ -151,7 +151,7 @@
   },
   {
     "activity_id": 12251798472,
-    "activity_date": "Aug 27",
+    "activity_date": 2024-08-27,
     "activity_name": "Sick but (of?) running",
     "activity_type": "Run",
     "distance": 8.37,
@@ -166,7 +166,7 @@
   },
   {
     "activity_id": 12410407316,
-    "activity_date": "Sep 14",
+    "activity_date": 2024-09-14,
     "activity_name": "Lunch Run",
     "activity_type": "Run",
     "distance": 16.1,
@@ -181,7 +181,7 @@
   },
   {
     "activity_id": 12478797179,
-    "activity_date": "Sep 19",
+    "activity_date": 2024-09-19,
     "activity_name": "chill evening",
     "activity_type": "Run",
     "distance": 6.44,
@@ -196,7 +196,7 @@
   },
   {
     "activity_id": 12479300220,
-    "activity_date": "Sep 22",
+    "activity_date": 2024-09-22,
     "activity_name": "Afternoon Run",
     "activity_type": "Run",
     "distance": 7.24,
@@ -211,7 +211,7 @@
   },
   {
     "activity_id": 12557441787,
-    "activity_date": "Oct 2",
+    "activity_date": 2024-10-02,
     "activity_name": "Morning Run",
     "activity_type": "Run",
     "distance": 3.22,
@@ -226,7 +226,7 @@
   },
   {
     "activity_id": 12569512407,
-    "activity_date": "Oct 4",
+    "activity_date": 2024-10-04,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 6.45,
@@ -241,7 +241,7 @@
   },
   {
     "activity_id": 12639531637,
-    "activity_date": "Oct 12",
+    "activity_date": 2024-10-12,
     "activity_name": "Spooky Run",
     "activity_type": "Run",
     "distance": 14.38,
@@ -256,7 +256,7 @@
   },
   {
     "activity_id": 12666266215,
-    "activity_date": "Oct 16",
+    "activity_date": 2024-10-16,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 4.02,
@@ -271,7 +271,7 @@
   },
   {
     "activity_id": 12689211906,
-    "activity_date": "Oct 19",
+    "activity_date": 2024-10-19,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 16.58,
@@ -286,7 +286,7 @@
   },
   {
     "activity_id": 12786513431,
-    "activity_date": "Oct 31",
+    "activity_date": 2024-10-31,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 5.22,
@@ -301,7 +301,7 @@
   },
   {
     "activity_id": 12806866969,
-    "activity_date": "Nov 2",
+    "activity_date": 2024-11-02,
     "activity_name": "Morning Run",
     "activity_type": "Run",
     "distance": 2.55,
@@ -316,7 +316,7 @@
   },
   {
     "activity_id": 12815582745,
-    "activity_date": "Nov 3",
+    "activity_date": 2024-11-03,
     "activity_name": "Morning Run",
     "activity_type": "Run",
     "distance": 21.17,
@@ -331,7 +331,7 @@
   },
   {
     "activity_id": 12841814660,
-    "activity_date": "Nov 7",
+    "activity_date": 2024-11-07,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 5.51,
@@ -346,7 +346,7 @@
   },
   {
     "activity_id": 12891966255,
-    "activity_date": "Nov 13",
+    "activity_date": 2024-11-13,
     "activity_name": "Morning run",
     "activity_type": "Run",
     "distance": 7.25,
@@ -361,7 +361,7 @@
   },
   {
     "activity_id": 12933796559,
-    "activity_date": "Nov 19",
+    "activity_date": 2024-11-19,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 10.1,
@@ -376,7 +376,7 @@
   },
   {
     "activity_id": 13025152864,
-    "activity_date": "Nov 20",
+    "activity_date": 2024-11-20,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 5.1,
@@ -391,7 +391,7 @@
   },
   {
     "activity_id": 13025154994,
-    "activity_date": "Dec 1",
+    "activity_date": 2024-12-01,
     "activity_name": "Morning Run",
     "activity_type": "Run",
     "distance": 10.07,
@@ -406,7 +406,7 @@
   },
   {
     "activity_id": 13042429735,
-    "activity_date": "Dec 4",
+    "activity_date": 2024-12-04,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 3.52,
@@ -421,7 +421,7 @@
   },
   {
     "activity_id": 13049925358,
-    "activity_date": "Dec 5",
+    "activity_date": 2024-12-05,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 8.05,
@@ -436,7 +436,7 @@
   },
   {
     "activity_id": 13131934429,
-    "activity_date": "Dec 15",
+    "activity_date": 2024-12-15,
     "activity_name": "Morning Run",
     "activity_type": "Run",
     "distance": 3.25,
@@ -451,7 +451,7 @@
   },
   {
     "activity_id": 13131934396,
-    "activity_date": "Dec 17",
+    "activity_date": 2024-12-17,
     "activity_name": "Evening Run",
     "activity_type": "Run",
     "distance": 3.8,
@@ -466,7 +466,7 @@
   },
   {
     "activity_id": 13164200854,
-    "activity_date": "Dec 21",
+    "activity_date": 2024-12-21,
     "activity_name": "Lunch",
     "activity_type": "Run",
     "distance": 16.12,
