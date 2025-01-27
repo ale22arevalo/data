@@ -1,90 +1,112 @@
 [
   {
     "Month": "January",
-    "Bad Bunny": 43,
-    "Karol G": 24,
-    "Ludovico Einaudi": 2,
-    "Rauw Alejandro": 78,
-    "Rosalia": 32
+    "Artists": {
+      "Bad Bunny": 43,
+      "Karol G": 24,
+      "Ludovico Einaudi": 2,
+      "Rauw Alejandro": 78,
+      "Rosalia": 32
+    }
   },
   {
     "Month": "February",
-    "Bad Bunny": 12,
-    "Karol G": 10,
-    "Ludovico Einaudi": 0,
-    "Rauw Alejandro": 35,
-    "Rosalia": 25
+    "Artists": {
+      "Bad Bunny": 12,
+      "Karol G": 10,
+      "Ludovico Einaudi": 0,
+      "Rauw Alejandro": 35,
+      "Rosalia": 25
+    }
   },
   {
     "Month": "March",
-    "Bad Bunny": 8,
-    "Karol G": 7,
-    "Ludovico Einaudi": 0,
-    "Rauw Alejandro": 55,
-    "Rosalia": 31
+    "Artists": {
+      "Bad Bunny": 8,
+      "Karol G": 7,
+      "Ludovico Einaudi": 0,
+      "Rauw Alejandro": 55,
+      "Rosalia": 31
+    }
   },
   {
     "Month": "April",
-    "Bad Bunny": 25,
-    "Karol G": 20,
-    "Ludovico Einaudi": 89,
-    "Rauw Alejandro": 29,
-    "Rosalia": 20
+    "Artists": {
+      "Bad Bunny": 25,
+      "Karol G": 20,
+      "Ludovico Einaudi": 89,
+      "Rauw Alejandro": 29,
+      "Rosalia": 20
+    }
   },
   {
     "Month": "May",
-    "Bad Bunny": 29,
-    "Karol G": 15,
-    "Ludovico Einaudi": 58,
-    "Rauw Alejandro": 46,
-    "Rosalia": 27
+    "Artists": {
+      "Bad Bunny": 29,
+      "Karol G": 15,
+      "Ludovico Einaudi": 58,
+      "Rauw Alejandro": 46,
+      "Rosalia": 27
+    }
   },
   {
     "Month": "June",
-    "Bad Bunny": 17,
-    "Karol G": 19,
-    "Ludovico Einaudi": 18,
-    "Rauw Alejandro": 36,
-    "Rosalia": 18
+    "Artists": {
+      "Bad Bunny": 17,
+      "Karol G": 19,
+      "Ludovico Einaudi": 18,
+      "Rauw Alejandro": 36,
+      "Rosalia": 18
+    }
   },
   {
     "Month": "July",
-    "Bad Bunny": 19,
-    "Karol G": 15,
-    "Ludovico Einaudi": 28,
-    "Rauw Alejandro": 43,
-    "Rosalia": 16
+    "Artists": {
+      "Bad Bunny": 19,
+      "Karol G": 15,
+      "Ludovico Einaudi": 28,
+      "Rauw Alejandro": 43,
+      "Rosalia": 16
+    }
   },
   {
     "Month": "August",
-    "Bad Bunny": 18,
-    "Karol G": 15,
-    "Ludovico Einaudi": 13,
-    "Rauw Alejandro": 24,
-    "Rosalia": 11
+    "Artists": {
+      "Bad Bunny": 18,
+      "Karol G": 15,
+      "Ludovico Einaudi": 13,
+      "Rauw Alejandro": 24,
+      "Rosalia": 11
+    }
   },
   {
     "Month": "September",
-    "Bad Bunny": 25,
-    "Karol G": 19,
-    "Ludovico Einaudi": 86,
-    "Rauw Alejandro": 24,
-    "Rosalia": 10
+    "Artists": {
+      "Bad Bunny": 25,
+      "Karol G": 19,
+      "Ludovico Einaudi": 86,
+      "Rauw Alejandro": 24,
+      "Rosalia": 10
+    }
   },
   {
     "Month": "October",
-    "Bad Bunny": 15,
-    "Karol G": 13,
-    "Ludovico Einaudi": 28,
-    "Rauw Alejandro": 32,
-    "Rosalia": 9
+    "Artists": {
+      "Bad Bunny": 15,
+      "Karol G": 13,
+      "Ludovico Einaudi": 28,
+      "Rauw Alejandro": 32,
+      "Rosalia": 9
+    }
   },
   {
     "Month": "November",
-    "Bad Bunny": 20,
-    "Karol G": 8,
-    "Ludovico Einaudi": 62,
-    "Rauw Alejandro": 12,
-    "Rosalia": 5
+    "Artists": {
+      "Bad Bunny": 20,
+      "Karol G": 8,
+      "Ludovico Einaudi": 62,
+      "Rauw Alejandro": 12,
+      "Rosalia": 5
+    }
   }
 ]
